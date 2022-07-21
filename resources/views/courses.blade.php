@@ -10,8 +10,8 @@
 </head>
 <body>
     <div class="header_1">
-    <a href="#default" class="logo"><img src="ucc_logo.png" alt="ucc logo "></a>
-    <span class="header-center_1">UCC PROGRAMME REQIUREMENT CHECKER</span>
+    <a href="#default" class="logo"><img src="University of Cape Coast Logo.png" alt="ucc logo "></a>
+    <span class="header-center_1">UCC PROGRAMME REQUIREMENT CHECKER</span>
 {{-- <div>
       {{-- <a class="active" href="#home">Home</a>
       <a href="#contact">Contact</a>
@@ -24,14 +24,14 @@
        @include('partials.left-page')
         <!-- rigth page -->
 
-        <div class="right right-page">
+        {{-- <div class="right right-page">
             <div class="header">
                 <h4>Congratulations!</h4>
-            </div>
+            </div> --}}
 
             <table id="customers">
                 <tr>
-                    <th>You can read these programmes in UCC</th>
+                    <th>According on your high school electives, these programmes are accessible for reading at the University of Cape Coast.</th>
                     {{-- <th>Name</th>
                     <th>Department</th>
                     <th>Population</th> --}}
